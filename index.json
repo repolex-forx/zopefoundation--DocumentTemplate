@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "DocumentTemplate",
+  "versions": [
+    {
+      "commit": "7a5f477e3c29a8242db9fb0d635dfb1746615c9a",
+      "tag": "",
+      "parsed_at": "2026-11-02T21:01:12.066559+00:00"
+    }
+  ]
+}
