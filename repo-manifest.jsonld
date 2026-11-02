@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zopefoundation/DocumentTemplate/commit/7a5f477e3c29a8242db9fb0d635dfb1746615c9a",
       "git:hexsha": "7a5f477e3c29a8242db9fb0d635dfb1746615c9a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/zopefoundation/DocumentTemplate/commit/3e6933125eb9de1ebcb4d029a70e22019091f3d4",
