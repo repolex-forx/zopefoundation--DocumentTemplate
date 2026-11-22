@@ -3,6 +3,11 @@
   "repo": "DocumentTemplate",
   "versions": [
     {
+      "commit": "4f7f2b5b8e39c67980e4c74b01280242fe6c6e4b",
+      "tag": "5.3",
+      "parsed_at": "2026-11-22T01:15:36.839974+00:00"
+    },
+    {
       "commit": "7a5f477e3c29a8242db9fb0d635dfb1746615c9a",
       "tag": "",
       "parsed_at": "2026-11-02T21:01:12.066559+00:00"
