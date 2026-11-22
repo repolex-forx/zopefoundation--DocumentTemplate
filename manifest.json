@@ -155,6 +155,99 @@
       ],
       "ast": [
         "aggregate/ast/4f7f2b5b8e39c67980e4c74b01280242fe6c6e4b/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/4f7f2b5b8e39c67980e4c74b01280242fe6c6e4b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "accesscontrol",
+          "ecosystem": "PYPI",
+          "version": "4.0",
+          "githubOrg": "zopefoundation",
+          "githubRepo": "AccessControl",
+          "githubCommit": "4acebba0ffe57e020c847acd84eed276dd9e1696",
+          "githubTag": "4.0",
+          "githubUrl": "https://github.com/zopefoundation/AccessControl",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "acquisition",
+          "ecosystem": "PYPI",
+          "version": "6.4.0",
+          "githubOrg": "zopefoundation",
+          "githubRepo": "Acquisition",
+          "githubUrl": "https://github.com/zopefoundation/Acquisition",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "extensionclass",
+          "ecosystem": "PYPI",
+          "version": "4.1",
+          "githubOrg": "zopefoundation",
+          "githubRepo": "ExtensionClass",
+          "githubCommit": "236dad822aa6791808ba4b17c5c8012ce455b7af",
+          "githubTag": "4.1",
+          "githubUrl": "https://github.com/zopefoundation/ExtensionClass",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "restrictedpython",
+          "ecosystem": "PYPI",
+          "version": "4.0",
+          "githubOrg": "zopefoundation",
+          "githubRepo": "RestrictedPython",
+          "githubCommit": "4655a49cc4f0e96ba387f0153c45cb22eb63c5ba",
+          "githubTag": "4.0",
+          "githubUrl": "https://github.com/zopefoundation/RestrictedPython",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "roman",
+          "ecosystem": "PYPI",
+          "version": "5.2.0",
+          "githubOrg": "zopefoundation",
+          "githubRepo": "roman",
+          "githubUrl": "https://github.com/zopefoundation/roman",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "zexceptions",
+          "ecosystem": "PYPI",
+          "version": "6.0.0",
+          "githubOrg": "zopefoundation",
+          "githubRepo": "zExceptions",
+          "githubUrl": "https://github.com/zopefoundation/zExceptions",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "zope-sequencesort",
+          "ecosystem": "PYPI",
+          "version": "6.0.0",
+          "githubOrg": "zopefoundation",
+          "githubRepo": "zope.sequencesort",
+          "githubUrl": "https://github.com/zopefoundation/zope.sequencesort",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "zope-structuredtext",
+          "ecosystem": "PYPI",
+          "version": "6.0.0",
+          "githubOrg": "zopefoundation",
+          "githubRepo": "zope.structuredtext",
+          "githubUrl": "http://github.com/zopefoundation/zope.structuredtext",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        }
       ]
     }
   ],
